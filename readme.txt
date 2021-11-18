@@ -4,5 +4,5 @@ It is the template I used for confirmation report, not an official one.
 
 I developed this based on the styles from https://github.com/kourgeorge/arxiv-style. Thanks for their contribution.
 
-You can get the updated version of this template at 
+You can get the updated version of this template at https://github.com/oaimli/ConfirmationReportTemplate.
 
