@@ -1,8 +1,8 @@
-This is a template for the PhD confirmation report in School of Computing and Information Systems, The University of Melbourne.
+This is a template for the PhD confirmation report at School of Computing and Information Systems, The University of Melbourne.
 
-It is the template I used for confirmation report, not an official one. 
+It is just the template I used for confirmation report, not an official one. If you are going to write a confirmation report, please feel free to use it.
 
-I developed this based on the styles from https://github.com/kourgeorge/arxiv-style. Thanks for their contribution.
+I developed this based on the styles from https://github.com/kourgeorge/arxiv-style. Thanks for their contributions.
 
-You can get the updated version of this template at https://github.com/oaimli/ConfirmationReportTemplate.
+You can get the updated version of this template at https://github.com/oaimli/ConfirmationReportTemplate. If you have any more suggestions about this template, please tell me to update.
 
