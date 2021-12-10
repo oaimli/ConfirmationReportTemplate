@@ -11,7 +11,7 @@
 \AtBeginDocument{
   \newgeometry{
     textheight=9in,
-    textwidth=6.5in,
+    % textwidth=6.1in,
     top=1in,
     headheight=14pt,
     headsep=25pt,
@@ -39,6 +39,8 @@
 \chead{\shorttitle}
 \cfoot{\thepage}
 
+% space between lines
+\renewcommand{\baselinestretch}{1.5}
 
 %Handling Keywords
 \def\keywordname{{\bfseries \emph{Keywords}}}%
@@ -48,7 +50,7 @@
 
 % font sizes with reduced leading
 \renewcommand{\normalsize}{%
-  \@setfontsize\normalsize\@xipt\@xiipt
+  \@setfontsize\normalsize\@xiipt\@xiipt
   \abovedisplayskip      7\p@ \@plus 2\p@ \@minus 5\p@
   \abovedisplayshortskip \z@ \@plus 3\p@
   \belowdisplayskip      \abovedisplayskip
@@ -225,7 +227,7 @@
     \@bottomtitlebar
     \vskip 0.5in
     \textsc{\Large\undertitle}\\
-    \vskip 2.0in
+    \vskip 1.5in
     \def\And{%
       \end{tabular}\hfil\linebreak[0]\hfil%
       \begin{tabular}[t]{c}\bf\rule{\z@}{24\p@}\ignorespaces%
